@@ -7,7 +7,7 @@ const Navbar = (props) => (
         <img
           className="img-fluid"
           width="120"
-          src="./assets/netflix_logo.png"
+          src="/assets/netflix_logo.png"
           alt="img"
         />
       </Link>
